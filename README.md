@@ -1,7 +1,7 @@
 # Terraform-By-Niti
 **Agenda**
 <br>
-Terrform Introduction
+Terraform Introduction
 <br>
 Why Terraform
 <br>
