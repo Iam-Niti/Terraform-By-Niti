@@ -10,10 +10,9 @@ Configuration
 Lifecycle of terraform
 <br>
 # Introduction
-<br>
 Terraform is an Infrastructure as Code (IaC) tool developed by HashiCorp that allows you to define, manage, and provision infrastructure using a declarative configuration language. It is widely used to automate cloud resources across providers like AWS, Azure, Google Cloud, and even on-premise environments.
 <br>
-# Example headings
+# Why Terraform
 <br>
 
 1. Infrastructure as Code (IaC) – Define infrastructure in code for consistency and automation.
