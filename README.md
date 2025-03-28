@@ -26,7 +26,6 @@ Terraform is an Infrastructure as Code (IaC) tool developed by HashiCorp that al
 6. Modular & Reusable – Use modules for efficient infrastructure management.
 <br>
 # How Terraform Works
-<br>
 <img width="697" alt="image" src="https://github.com/user-attachments/assets/3d4ff958-15ef-4b75-9163-155eaa5c50c0" />
 
 Terraform operates in a simple workflow:
